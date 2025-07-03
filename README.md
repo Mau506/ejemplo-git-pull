@@ -1,2 +1,2 @@
-# ejemplo-git-pull
+# Repositorio para practicar git pull
 repotsitorio para prácticar el comando git pull
